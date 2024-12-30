@@ -1,0 +1,14 @@
+target/
+*.iml
+.idea/
+src/native/generated/
+src/generated/
+*.class
+.DS_Store
+*.jar
+bin/
+libs/
+package.log
+*.so
+*.dll
+*.dylib
